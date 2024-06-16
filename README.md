@@ -10,5 +10,7 @@ Extract new features using the provided functions for different indices.
 Indices include NDWI, NDSI, BSI, NBR, AFRI, NDVI, SAVI, and others.
 #### Applying Feature Engineering Functions :
 Create functions to calculate various indices.
-Apply these functions to your dataframe to generate new features.<br>
+Apply these functions to your dataframe to generate new features.
+
+
 In the above statement regarding Machine Learing, feature engineering is not performed for Neural Networks
