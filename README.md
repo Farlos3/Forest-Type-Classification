@@ -13,4 +13,7 @@ Create functions to calculate various indices.
 Apply these functions to your dataframe to generate new features.
 
 
+
+
+
 In the above statement regarding Machine Learing, feature engineering is not performed for Neural Networks
